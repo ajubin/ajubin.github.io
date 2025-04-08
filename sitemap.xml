@@ -2,47 +2,47 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
 	
 	<url>
-		<loc>https://ajubin.github.io/ajubin/blog/firstpost/</loc>
+		<loc>https://ajubin.github.io/blog/firstpost/</loc>
 		<lastmod>2018-05-01</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://ajubin.github.io/ajubin/blog/secondpost/</loc>
+		<loc>https://ajubin.github.io/blog/secondpost/</loc>
 		<lastmod>2018-07-04</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://ajubin.github.io/ajubin/blog/thirdpost/</loc>
+		<loc>https://ajubin.github.io/blog/thirdpost/</loc>
 		<lastmod>2018-08-24</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://ajubin.github.io/ajubin/blog/fourthpost/</loc>
+		<loc>https://ajubin.github.io/blog/fourthpost/</loc>
 		<lastmod>2018-09-30</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://ajubin.github.io/ajubin/about/</loc>
+		<loc>https://ajubin.github.io/about/</loc>
 		<lastmod>2025-04-08</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://ajubin.github.io/ajubin/blog/</loc>
+		<loc>https://ajubin.github.io/blog/</loc>
 		<lastmod>2025-04-08</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://ajubin.github.io/ajubin/</loc>
+		<loc>https://ajubin.github.io/</loc>
 		<lastmod>2025-04-08</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://ajubin.github.io/ajubin/tags/</loc>
+		<loc>https://ajubin.github.io/tags/</loc>
 		<lastmod>2025-04-08</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://ajubin.github.io/ajubin/feed/feed.xml</loc>
+		<loc>https://ajubin.github.io/feed/feed.xml</loc>
 		<lastmod>2025-04-08</lastmod>
 	</url>
 </urlset>
