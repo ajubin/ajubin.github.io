@@ -8,14 +8,14 @@ My personnal website, will contains bio, resume, blog or maybe will be empty.
 
 1. Make a directory and navigate to it:
 
-```
+```bash
 mkdir my-blog-name
 cd my-blog-name
 ```
 
 2. Clone this Repository
 
-```
+```bash
 git clone https://github.com/11ty/eleventy-base-blog.git .
 ```
 
@@ -23,7 +23,7 @@ _Optional:_ Review `eleventy.config.js` and `_data/metadata.js` to configure the
 
 3. Install dependencies
 
-```
+```bash
 npm install
 ```
 
@@ -31,13 +31,13 @@ npm install
 
 Generate a production-ready build to the `_site` folder:
 
-```
+```bash
 npx @11ty/eleventy
 ```
 
 Or build and host on a local development server:
 
-```
+```bash
 npx @11ty/eleventy --serve
 ```
 

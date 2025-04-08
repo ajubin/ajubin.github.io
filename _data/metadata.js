@@ -1,5 +1,5 @@
 export default {
-	title: "site perso de ajubin",
+	title: "Site perso de ajubin",
 	url: "https://ajubin.github.io/",
 	language: "fr",
 	description: "Pour en savoir plus sur moi, mes projets, mes passions",
