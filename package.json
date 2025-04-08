@@ -1,7 +1,7 @@
 {
-	"name": "eleventy-base-blog",
-	"version": "9.0.0",
-	"description": "A starter repository for a blog web site using the Eleventy site generator.",
+	"name": "ajubin-blog",
+	"version": "1.0.0",
+	"description": "My personnal website",
 	"type": "module",
 	"scripts": {
 		"build": "npx @11ty/eleventy",
@@ -15,25 +15,16 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git://github.com/11ty/eleventy-base-blog.git"
+		"url": "git://github.com/ajubin/ajuin.github.io.git"
 	},
 	"author": {
-		"name": "Zach Leatherman",
-		"email": "zachleatherman@gmail.com",
-		"url": "https://zachleat.com/"
+		"name": "ajubin"
 	},
 	"license": "MIT",
 	"engines": {
 		"node": ">=18"
 	},
-	"funding": {
-		"type": "opencollective",
-		"url": "https://opencollective.com/11ty"
-	},
-	"bugs": {
-		"url": "https://github.com/11ty/eleventy-base-blog/issues"
-	},
-	"homepage": "https://github.com/11ty/eleventy-base-blog#readme",
+	"homepage": "https://ajubin.github.io/",
 	"devDependencies": {
 		"@11ty/eleventy": "^3.0.0",
 		"@11ty/eleventy-img": "^6.0.1",

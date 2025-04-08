@@ -1,6 +1,6 @@
-# eleventy-base-blog v9
+# Ajubin personnal website
 
-A starter repository showing how to build a blog with the [Eleventy](https://www.11ty.dev/) site generator (using the [v3.0 release](https://github.com/11ty/eleventy/releases/tag/v3.0.0)).
+My personnal website, will contains bio, resume, blog or maybe will be empty.
 
 ## Getting Started
 
@@ -115,3 +115,8 @@ If your site enforces a [Content Security Policy](https://developer.mozilla.org/
 
 1. In `base.njk`, remove `<style>{% getBundle "css" %}</style>` and uncomment `<link rel="stylesheet" href="{% getBundleFileUrl "css" %}">`
 2. Configure the server with the CSP directive `style-src: 'unsafe-inline'` (less secure).
+
+
+## Useful links
+
+Inspi taken from https://github.com/11ty/eleventy-base-blog.git

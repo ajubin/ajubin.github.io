@@ -7,10 +7,10 @@ import { eleventyImageTransformPlugin } from "@11ty/eleventy-img";
 import pluginFilters from "./_config/filters.js";
 
 /** @param {import("@11ty/eleventy").UserConfig} eleventyConfig */
-export default async function(eleventyConfig) {
+export default async function (eleventyConfig) {
 	// Drafts, see also _data/eleventyDataSchema.js
 	eleventyConfig.addPreprocessor("drafts", "*", (data, content) => {
-		if(data.draft && process.env.ELEVENTY_RUN_MODE === "build") {
+		if (data.draft && process.env.ELEVENTY_RUN_MODE === "build") {
 			return false;
 		}
 	});
